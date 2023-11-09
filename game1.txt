@@ -1,0 +1,23 @@
+Movie Guessing Game
+You're asked to guess a movie name by answering a series of questions.
+1 Is it an animated movie? (Y/N)
+2 Does it feature animals prominently? (Y/N)
+3 Is it a Disney/Pixar movie? (Y/N)
+4 Does it take place in the ocean? (Y/N)
+5 Does it involve a clownfish? (Y/N)
+6 Finding Nemo
+7 Is it about lions? (Y/N)
+8 Is it a musical? (Y/N)
+9 The Lion King
+10 Is it a romantic movie? (Y/N)
+11 Does it take place in outer space? (Y/N)
+12 Star Wars
+13 Is it about superheroes? (Y/N)
+14 Is it a Marvel movie? (Y/N)
+15 Is it about a web-swinging hero? (Y/N)
+16 Spider-Man: Homecoming
+17 Is it a DC movie? (Y/N)
+18 Is it about the Dark Knight? (Y/N)
+19 The Dark Knight
+20 Is it about love on a ship? (Y/N)
+21 Titanic
